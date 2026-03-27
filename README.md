@@ -3,8 +3,11 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello World! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 주니어 개발자 김건우입니다.</li>  </li>혁신적인 BM을 설계하고 이를 소프트웨어로 구현하는 것을 즐깁니다  </li></li>DKSH 6기, KAIST IPCEO 14기 </div> 
-    </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+  <div>안녕하세요! 주니어 개발자 김건우입니다.</div>
+  <div>혁신적인 BM을 설계하고 이를 소프트웨어로 구현하는 것을 즐깁니다.</div>
+  <div>DKSH 6기, KAIST IPCEO 14기, AI&SW Maestro 17기</div>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
