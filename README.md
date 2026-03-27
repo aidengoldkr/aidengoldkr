@@ -1,12 +1,13 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=random&height=120&text=Aidengoldkr&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=f2f2f2&height=120&text=Aidengoldkr&animation=fadeIn&fontColor=1d1d1d&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello World! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-  <div>안녕하세요! 주니어 개발자 김건우입니다.</div>
-  <div>혁신적인 BM을 설계하고 이를 소프트웨어로 구현하는 것을 즐깁니다.</div>
-  <div>DKSH 6기, KAIST IPCEO 14기, AI&SW Maestro 17기</div>
+  <div>안녕하세요! 아이디어를 프로덕트로 만드는 고등학생 개발자, 김건우입니다</div>
+  <div>DKSH 6기</div>
+  <divKAIST IP-CEO 14기</div>
+  <div>AI&SW Maestro 17기</div>
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
