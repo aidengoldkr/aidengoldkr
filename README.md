@@ -1,12 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=f2f2f2&height=120&text=Aidengoldkr&animation=fadeIn&fontColor=1d1d1d&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=1d1d1d&height=120&text=Aidengoldkr&animation=fadeIn&fontColor=f2f2f2&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello World! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
   <div>안녕하세요! 아이디어를 프로덕트로 만드는 고등학생 개발자, 김건우입니다</div>
   <div>DKSH 6기</div>
-  <divKAIST IP-CEO 14기</div>
+  <div>KAIST IP-CEO 14기</div>
   <div>AI&SW Maestro 17기</div>
 </div>
     <div style="text-align: left;">
@@ -51,8 +51,7 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=aidengoldkr&bg_color=180,2c313a,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidengoldkr&layout=compact&bg_color=180,2c313a,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidengoldkr&layout=compact&bg_color=180,2c313a,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
